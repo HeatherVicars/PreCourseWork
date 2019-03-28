@@ -56,6 +56,7 @@ else
 //Leap Year. Write a function that determines whether a given year is a leap year. If a year is divisible by four, 
 //it is a leap year, unless it is divisible by 100. However, if it is divisible by 400, then it is. 
 
+var year = 2400;
 function leapYear()
 {
    console.log(year + " is a leap year.");
@@ -76,6 +77,7 @@ if (year % 4 === 0)
       else
       {
          notleapYear();
+      }
    }
    else
    { 
@@ -116,7 +118,7 @@ while (num < 101)
 {
    if (num % 5 === 0)
    {
-      if (num % === 10)
+      if (num % 10 === 0)
       {
          console.log("Coding Dojo");
          }
