@@ -137,4 +137,18 @@ while (num < 101)
    num = num + 1;
 }
    
-   
+//What do you know? Your function will be given an input parameter of incoming. Please console.log this value.
+
+//What do you know? Your function will be given an input parameter of incoming. Please console.log this value.
+
+function whatdoyouKnow(incoming)
+{
+      console.log(incoming);
+}
+
+//Whoa, that sucker's huge...Add odd intergers from -300,000 to 300.000, and console.log the final sum.
+//Is there a shortcut?
+
+
+
+
